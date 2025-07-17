@@ -8,4 +8,4 @@ Pillow==11.3.0
 plotly==5.18.0
 python_dateutil==2.8.2
 Requests==2.32.4
-~ash_bootstrap_components==1.6.1rc2
+dash_bootstrap_components==1.6.1rc2
