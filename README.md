@@ -1,10 +1,12 @@
-# Remanufacturing Lab - "Project Name"
-"Brief explanation of project"
+# Digital Shadow Dashboard
+The Digital Shadow Dashboard (DSD) is a tool used to visualize part location data within industrial companies. With the DSD it is possible to view: Part routes taken, Where parts concentrate or 'pile up', average time taken per location, a dynamic value stream mapping tool, viewing the differnt locations and their data, and viewing raw data in a table.
 
 # General Overview
 ## File structure
-This project consists of several (mostly) heterogeneous components, that are kept in separate project-level directories with their own documentation. These are:
-- "Give a brief explanation of every component in the repository."
+This project is organized into three main directories:
+- code: Holds code that can be used to run the DSD locally
+- docs: Has documents about the project
+- media: Has images and videos of the DSD in action
 
 ## Testing
 
