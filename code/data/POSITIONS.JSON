@@ -1,0 +1,146 @@
+[
+  {
+    "id": 0,
+    "name": "A Measuring",
+    "X_coord": 255,
+    "Y_coord": 276,
+    "associated_status": "Measuring",
+    "department": "A"
+  },
+  {
+    "id": 1,
+    "name": "A Sawing 1",
+    "X_coord": 71,
+    "Y_coord": 315,
+    "associated_status": "Sawing",
+    "department": "A"
+  },
+  {
+    "id": 2,
+    "name": "A Sawing 2",
+    "X_coord": 135,
+    "Y_coord": 306,
+    "associated_status": "Sawing",
+    "department": "A"
+  },
+  {
+    "id": 3,
+    "name": "A Welding 1",
+    "X_coord": 62,
+    "Y_coord": 102,
+    "associated_status": "Welding",
+    "department": "A"
+  },
+  {
+    "id": 4,
+    "name": "A Welding 2",
+    "X_coord": 142,
+    "Y_coord": 102,
+    "associated_status": "Welding",
+    "department": "A"
+  },
+  {
+    "id": 5,
+    "name": "A Welding 3",
+    "X_coord": 226,
+    "Y_coord": 102,
+    "associated_status": "Welding",
+    "department": "A"
+  },
+  {
+    "id": 6,
+    "name": "A Welding 4",
+    "X_coord": 309,
+    "Y_coord": 102,
+    "associated_status": "Welding",
+    "department": "A"
+  },
+  {
+    "id": 7,
+    "name": "A Bending",
+    "X_coord": 476,
+    "Y_coord": 272,
+    "associated_status": "Bending",
+    "department": "A"
+  },
+  {
+    "id": 8,
+    "name": "A Fitting 1",
+    "X_coord": 486,
+    "Y_coord": 102,
+    "associated_status": "Fitting",
+    "department": "A"
+  },
+  {
+    "id": 9,
+    "name": "A Fitting 2",
+    "X_coord": 575,
+    "Y_coord": 102,
+    "associated_status": "Fitting",
+    "department": "A"
+  },
+  {
+    "id": 10,
+    "name": "A Fitting 3",
+    "X_coord": 650,
+    "Y_coord": 102,
+    "associated_status": "Fitting",
+    "department": "A"
+  },
+  {
+    "id": 11,
+    "name": "A Fitting 4",
+    "X_coord": 740,
+    "Y_coord": 102,
+    "associated_status": "Fitting",
+    "department": "A"
+  },
+  {
+    "id": 12,
+    "name": "A Fitting 5",
+    "X_coord": 818,
+    "Y_coord": 102,
+    "associated_status": "Fitting",
+    "department": "A"
+  },
+  {
+    "id": 13,
+    "name": "A Control",
+    "X_coord": 785,
+    "Y_coord": 335,
+    "associated_status": "Control",
+    "department": "A"
+  },
+  {
+    "id": 14,
+    "name": "Warehouse Storage 1",
+    "X_coord": 980,
+    "Y_coord": 100,
+    "associated_status": "Storage",
+    "department": "Warehouse"
+  },
+  {
+    "id": 15,
+    "name": "Warehouse Storage 2",
+    "X_coord": 980,
+    "Y_coord": 160,
+    "associated_status": "Storage",
+    "department": "Warehouse"
+  },
+  {
+    "id": 16,
+    "name": "Warehouse Storage 3",
+    "X_coord": 980,
+    "Y_coord": 220,
+    "associated_status": "Storage",
+    "department": "Warehouse"
+  },
+  {
+    "id": 17,
+    "name": "Warehouse Storage 4",
+    "X_coord": 980,
+    "Y_coord": 280,
+    "associated_status": "Storage",
+    "department": "Warehouse"
+  }
+]

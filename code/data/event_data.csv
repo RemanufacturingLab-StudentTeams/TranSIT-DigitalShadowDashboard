@@ -1,0 +1,101 @@
+Timestamp,id,status,location,Sublocation Name
+2025-01-01T18:00:00Z,1,Measuring,A,A Measuring
+2025-01-01T18:52:00Z,1,Measuring - Done,A,A Measuring
+2025-01-01T19:38:00Z,1,Sawing,A,A Sawing 2
+2025-01-01T20:03:00Z,1,Sawing - Done,A,A Sawing 2
+2025-01-01T20:53:00Z,1,Bending,A,A Bending
+2025-01-01T21:15:00Z,1,Bending - Done,A,A Bending
+2025-01-01T21:36:00Z,1,Fitting,A,A Fitting 1
+2025-01-01T22:06:00Z,1,Fitting - Done,A,A Fitting 1
+2025-01-01T22:47:00Z,1,Welding,A,A Welding 1
+2025-01-01T23:36:00Z,1,Welding - Done,A,A Welding 1
+2025-01-02T11:00:00Z,3,Measuring,A,A Measuring
+2025-01-02T11:47:00Z,3,Measuring - Done,A,A Measuring
+2025-01-02T12:28:00Z,3,Sawing,A,A Sawing 2
+2025-01-02T12:54:00Z,3,Sawing - Done,A,A Sawing 2
+2025-01-02T13:42:00Z,3,Bending,A,A Bending
+2025-01-02T14:22:00Z,3,Bending - Done,A,A Bending
+2025-01-02T14:47:00Z,3,Fitting,A,A Fitting 3
+2025-01-02T15:45:00Z,3,Fitting - Done,A,A Fitting 3
+2025-01-02T16:00:00Z,3,Welding,A,A Welding 4
+2025-01-02T16:38:00Z,3,Welding - Done,A,A Welding 4
+2025-01-06T18:00:00Z,7,Measuring,A,A Measuring
+2025-01-06T18:56:00Z,7,Measuring - Done,A,A Measuring
+2025-01-06T19:47:00Z,7,Sawing,A,A Sawing 2
+2025-01-06T20:20:00Z,7,Sawing - Done,A,A Sawing 2
+2025-01-06T20:46:00Z,7,Bending,A,A Bending
+2025-01-06T21:29:00Z,7,Bending - Done,A,A Bending
+2025-01-06T22:27:00Z,7,Fitting,A,A Fitting 2
+2025-01-06T22:48:00Z,7,Fitting - Done,A,A Fitting 2
+2025-01-06T23:30:00Z,7,Welding,A,A Welding 2
+2025-01-06T23:49:00Z,7,Welding - Done,A,A Welding 2
+2025-01-06T12:00:00Z,11,Measuring,A,A Measuring
+2025-01-06T12:37:00Z,11,Measuring - Done,A,A Measuring
+2025-01-06T13:25:00Z,11,Sawing,A,A Sawing 1
+2025-01-06T14:16:00Z,11,Sawing - Done,A,A Sawing 1
+2025-01-06T14:35:00Z,11,Bending,A,A Bending
+2025-01-06T14:55:00Z,11,Bending - Done,A,A Bending
+2025-01-06T15:25:00Z,11,Fitting,A,A Fitting 2
+2025-01-06T16:04:00Z,11,Fitting - Done,A,A Fitting 2
+2025-01-06T16:48:00Z,11,Welding,A,A Welding 3
+2025-01-06T17:32:00Z,11,Welding - Done,A,A Welding 3
+2025-01-06T10:00:00Z,12,Measuring,A,A Measuring
+2025-01-06T10:34:00Z,12,Measuring - Done,A,A Measuring
+2025-01-06T11:32:00Z,12,Sawing,A,A Sawing 2
+2025-01-06T11:56:00Z,12,Sawing - Done,A,A Sawing 2
+2025-01-06T12:29:00Z,12,Bending,A,A Bending
+2025-01-06T13:03:00Z,12,Bending - Done,A,A Bending
+2025-01-06T13:19:00Z,12,Fitting,A,A Fitting 4
+2025-01-06T13:50:00Z,12,Fitting - Done,A,A Fitting 4
+2025-01-06T14:48:00Z,12,Welding,A,A Welding 1
+2025-01-06T15:17:00Z,12,Welding - Done,A,A Welding 1
+2025-01-02T10:00:00Z,13,Measuring,A,A Measuring
+2025-01-02T10:59:00Z,13,Measuring - Done,A,A Measuring
+2025-01-02T11:40:00Z,13,Sawing,A,A Sawing 2
+2025-01-02T12:39:00Z,13,Sawing - Done,A,A Sawing 2
+2025-01-02T13:00:00Z,13,Bending,A,A Bending
+2025-01-02T13:48:00Z,13,Bending - Done,A,A Bending
+2025-01-02T14:41:00Z,13,Fitting,A,A Fitting 5
+2025-01-02T15:14:00Z,13,Fitting - Done,A,A Fitting 5
+2025-01-02T15:31:00Z,13,Welding,A,A Welding 2
+2025-01-02T16:04:00Z,13,Welding - Done,A,A Welding 2
+2025-01-01T09:00:00Z,14,Measuring,A,A Measuring
+2025-01-01T09:46:00Z,14,Measuring - Done,A,A Measuring
+2025-01-01T10:22:00Z,14,Sawing,A,A Sawing 1
+2025-01-01T11:10:00Z,14,Sawing - Done,A,A Sawing 1
+2025-01-01T11:51:00Z,14,Bending,A,A Bending
+2025-01-01T12:25:00Z,14,Bending - Done,A,A Bending
+2025-01-01T13:19:00Z,14,Fitting,A,A Fitting 1
+2025-01-01T13:42:00Z,14,Fitting - Done,A,A Fitting 1
+2025-01-01T14:09:00Z,14,Welding,A,A Welding 4
+2025-01-01T14:39:00Z,14,Welding - Done,A,A Welding 4
+2025-01-06T11:00:00Z,15,Measuring,A,A Measuring
+2025-01-06T11:50:00Z,15,Measuring - Done,A,A Measuring
+2025-01-06T12:42:00Z,15,Sawing,A,A Sawing 1
+2025-01-06T13:04:00Z,15,Sawing - Done,A,A Sawing 1
+2025-01-06T13:32:00Z,15,Bending,A,A Bending
+2025-01-06T13:52:00Z,15,Bending - Done,A,A Bending
+2025-01-06T14:10:00Z,15,Fitting,A,A Fitting 3
+2025-01-06T15:02:00Z,15,Fitting - Done,A,A Fitting 3
+2025-01-06T15:51:00Z,15,Welding,A,A Welding 3
+2025-01-06T16:47:00Z,15,Welding - Done,A,A Welding 3
+2025-01-05T16:00:00Z,17,Measuring,A,A Measuring
+2025-01-05T17:00:00Z,17,Measuring - Done,A,A Measuring
+2025-01-05T17:31:00Z,17,Sawing,A,A Sawing 1
+2025-01-05T17:48:00Z,17,Sawing - Done,A,A Sawing 1
+2025-01-05T18:37:00Z,17,Bending,A,A Bending
+2025-01-05T18:54:00Z,17,Bending - Done,A,A Bending
+2025-01-05T19:49:00Z,17,Fitting,A,A Fitting 3
+2025-01-05T20:05:00Z,17,Fitting - Done,A,A Fitting 3
+2025-01-05T20:41:00Z,17,Welding,A,A Welding 2
+2025-01-05T21:17:00Z,17,Welding - Done,A,A Welding 2
+2025-01-02T09:00:00Z,20,Measuring,A,A Measuring
+2025-01-02T09:18:00Z,20,Measuring - Done,A,A Measuring
+2025-01-02T09:47:00Z,20,Sawing,A,A Sawing 1
+2025-01-02T10:26:00Z,20,Sawing - Done,A,A Sawing 1
+2025-01-02T10:45:00Z,20,Bending,A,A Bending
+2025-01-02T11:44:00Z,20,Bending - Done,A,A Bending
+2025-01-02T12:44:00Z,20,Fitting,A,A Fitting 4
+2025-01-02T13:19:00Z,20,Fitting - Done,A,A Fitting 4
+2025-01-02T13:54:00Z,20,Welding,A,A Welding 1
+2025-01-02T14:35:00Z,20,Welding - Done,A,A Welding 1

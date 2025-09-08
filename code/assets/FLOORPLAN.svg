@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1196.1407"
+   height="416.37814"
+   overflow="hidden"
+   version="1.1"
+   id="svg63"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs63">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath63">
+      <rect
+         style="opacity:0.3;fill:#46b6c9;stroke-width:2.08739"
+         id="rect64"
+         width="1196.1407"
+         height="416.37814"
+         x="45.423069"
+         y="7.5705113" />
+    </clipPath>
+  </defs>
+  <g
+     id="g63"
+     clip-path="url(#clipPath63)"
+     transform="translate(-45.423069,-7.5705113)">
+    <rect
+       x="0"
+       y="0"
+       width="1280"
+       height="720"
+       fill="#ffffff"
+       id="rect1" />
+    <rect
+       x="65"
+       y="59"
+       width="1154"
+       height="342"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect2" />
+    <rect
+       x="65"
+       y="59"
+       width="83"
+       height="110"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect3" />
+    <rect
+       x="148"
+       y="59"
+       width="82"
+       height="110"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect4" />
+    <rect
+       x="230"
+       y="59"
+       width="83"
+       height="110"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect5" />
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24px"
+       transform="translate(188.217,47)"
+       id="text5">Welding</text>
+    <rect
+       x="573"
+       y="58"
+       width="83"
+       height="111"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect6" />
+    <rect
+       x="656"
+       y="58"
+       width="83"
+       height="111"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect7" />
+    <rect
+       x="739"
+       y="58"
+       width="82"
+       height="111"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect8" />
+    <rect
+       x="820"
+       y="58"
+       width="82"
+       height="111"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect9" />
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24px"
+       transform="translate(665.263,45)"
+       id="text9">Fitting</text>
+    <rect
+       x="165"
+       y="255"
+       width="31"
+       height="111"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect10" />
+    <rect
+       x="102"
+       y="282"
+       width="32"
+       height="84"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect11" />
+    <rect
+       x="410"
+       y="255"
+       width="225"
+       height="49"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect12" />
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24px"
+       transform="translate(114.43,391)"
+       id="text12">Sawing</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24px"
+       id="text13"
+       x="420.16547"
+       y="287">Bending machine</text>
+    <rect
+       x="902"
+       y="59"
+       width="318"
+       height="342"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect13" />
+    <rect
+       x="265"
+       y="352"
+       width="504"
+       height="49"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect14" />
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24px"
+       id="text14"
+       x="436.29022"
+       y="385.5235">Storage rack</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="rotate(-90,233.5465,110.4535)"
+       id="text15">Saw 1</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="rotate(-90,259.338,73.662)"
+       id="text16">Saw 2</text>
+    <rect
+       x="761"
+       y="256"
+       width="110"
+       height="31"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect16" />
+    <rect
+       x="313"
+       y="59"
+       width="83"
+       height="110"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect17" />
+    <rect
+       x="492"
+       y="58"
+       width="82"
+       height="111"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect18" />
+    <rect
+       x="871"
+       y="256"
+       width="31"
+       height="145"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect19" />
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24px"
+       id="text19"
+       x="241.69124"
+       y="259.78525">Measuring</text>
+    <rect
+       x="268"
+       y="273"
+       width="69"
+       height="39"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect20" />
+    <rect
+       x="247"
+       y="267"
+       width="110"
+       height="31"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect21" />
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24px"
+       id="text21"
+       x="777.04474"
+       y="317.26175">Control</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24px"
+       transform="translate(1002.41,45)"
+       id="text22">Warehouse</text>
+    <rect
+       x="969"
+       y="85"
+       width="115"
+       height="43"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect22" />
+    <rect
+       x="1105"
+       y="84.000099"
+       width="115"
+       height="44"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect23" />
+    <rect
+       x="969"
+       y="145"
+       width="115"
+       height="43"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect24" />
+    <rect
+       x="1105"
+       y="144"
+       width="115"
+       height="44"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect25" />
+    <rect
+       x="969"
+       y="205"
+       width="115"
+       height="43"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect26" />
+    <rect
+       x="1105"
+       y="204"
+       width="115"
+       height="44"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect27" />
+    <rect
+       x="969"
+       y="267"
+       width="115"
+       height="44"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect28" />
+    <rect
+       x="1105"
+       y="267"
+       width="115"
+       height="43"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect29" />
+    <rect
+       x="1014"
+       y="399"
+       width="53"
+       height="4"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect30" />
+    <rect
+       x="962"
+       y="399"
+       width="52"
+       height="4"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect31" />
+    <rect
+       x="1105"
+       y="336"
+       width="115"
+       height="43"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect32" />
+    <rect
+       x="902"
+       y="291"
+       width="16"
+       height="110"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect33" />
+    <rect
+       x="900"
+       y="188"
+       width="4"
+       height="52"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect34" />
+    <rect
+       x="63"
+       y="188"
+       width="4"
+       height="52"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect35" />
+    <rect
+       x="396"
+       y="59"
+       width="95"
+       height="11"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect36" />
+    <rect
+       x="396"
+       y="97"
+       width="24"
+       height="25"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect37" />
+    <rect
+       x="396"
+       y="122"
+       width="20"
+       height="32"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect38" />
+    <rect
+       x="471"
+       y="103"
+       width="20"
+       height="49"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect39" />
+    <rect
+       x="530"
+       y="78"
+       width="44"
+       height="61"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect40" />
+    <rect
+       x="575"
+       y="78"
+       width="45"
+       height="61"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect41" />
+    <rect
+       x="694"
+       y="78"
+       width="44"
+       height="60"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect42" />
+    <rect
+       x="739"
+       y="78"
+       width="45"
+       height="60"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect43" />
+    <rect
+       x="820"
+       y="78"
+       width="45"
+       height="60"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect44" />
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(86.6002,160)"
+       id="text44">Bay 1</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(169.267,160)"
+       id="text45">Bay 2</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(251.933,160)"
+       id="text46">Bay 3</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(334.454,160)"
+       id="text47">Bay 4</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(513.1,159)"
+       id="text48">Bay 1</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(595.767,159)"
+       id="text49">Bay 2</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(678.434,159)"
+       id="text50">Bay 3</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(760.954,160)"
+       id="text51">Bay 4</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(842.923,159)"
+       id="text52">Bay 5</text>
+    <rect
+       x="332"
+       y="80"
+       width="45"
+       height="51"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect52" />
+    <rect
+       x="248"
+       y="80"
+       width="45"
+       height="51"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect53" />
+    <rect
+       x="166"
+       y="81"
+       width="44"
+       height="50"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect54" />
+    <rect
+       x="81"
+       y="81"
+       width="45"
+       height="50"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect55" />
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(1003.7,111)"
+       id="text55">Rack 1</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(1003.7,171)"
+       id="text56">Rack 2</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(1003.07,230)"
+       id="text57">Rack 3</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(1003.07,293)"
+       id="text58">Rack 4</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(1139.2,111)"
+       id="text59">Rack 5</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(1139.2,171)"
+       id="text60">Rack 6</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(1138.58,231)"
+       id="text61">Rack 7</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(1138.58,293)"
+       id="text62">Rack 8</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(1138.58,363)"
+       id="text63">Rack 9</text>
+  </g>
+</svg>

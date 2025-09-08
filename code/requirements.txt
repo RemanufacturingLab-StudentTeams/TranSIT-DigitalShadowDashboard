@@ -1,0 +1,14 @@
+aiohttp==3.11.11
+dash==3.2.0
+dash_bootstrap_components==1.6.1rc2
+dash_mantine_components==0.14.6
+diskcache==5.6.3
+influxdb_client==1.41.0
+numpy==2.3.2
+pandas==2.3.2
+Pillow==11.3.0
+plotly==5.18.0
+python_dateutil==2.8.2
+pytz==2023.3.post1
+Requests==2.32.5
+dash_bootstrap_components==1.6.1rc2

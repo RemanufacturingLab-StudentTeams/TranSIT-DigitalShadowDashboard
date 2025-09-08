@@ -1,0 +1,156 @@
+[
+  {
+    "id": 0,
+    "name": "A Measuring",
+    "department": "A",
+    "description": null,
+    "properties": null
+  },
+  {
+    "id": 1,
+    "name": "A Sawing 1",
+    "department": "A",
+    "description": null,
+    "properties": null
+  },
+  {
+    "id": 2,
+    "name": "A Sawing 2",
+    "department": "A",
+    "description": null,
+    "properties": null
+  },
+  {
+    "id": 3,
+    "name": "A Welding 1",
+    "department": "A",
+    "description": null,
+    "properties": null
+  },
+  {
+    "id": 4,
+    "name": "A Welding 2",
+    "department": "A",
+    "description": null,
+    "properties": null
+  },
+  {
+    "id": 5,
+    "name": "A Welding 3",
+    "department": "A",
+    "description": null,
+    "properties": null
+  },
+  {
+    "id": 6,
+    "name": "A Welding 4",
+    "department": "A",
+    "description": null,
+    "properties": null
+  },
+  {
+    "id": 7,
+    "name": "A Bending",
+    "department": "A",
+    "description": null,
+    "properties": null
+  },
+  {
+    "id": 8,
+    "name": "A Fitting 1",
+    "department": "A",
+    "description": null,
+    "properties": null
+  },
+  {
+    "id": 9,
+    "name": "A Fitting 2",
+    "department": "A",
+    "description": null,
+    "properties": null
+  },
+  {
+    "id": 10,
+    "name": "A Fitting 3",
+    "department": "A",
+    "description": null,
+    "properties": null
+  },
+  {
+    "id": 11,
+    "name": "A Fitting 4",
+    "department": "A",
+    "description": null,
+    "properties": null
+  },
+  {
+    "id": 12,
+    "name": "A Fitting 5",
+    "department": "A",
+    "description": null,
+    "properties": null
+  },
+  {
+    "id": 13,
+    "name": "A Control",
+    "department": "A",
+    "description": null,
+    "properties": null
+  },
+  {
+    "id": 14,
+    "name": "Warehouse Storage 1",
+    "department": "Warehouse",
+    "description": null,
+    "properties": null
+  },
+  {
+    "id": 15,
+    "name": "Warehouse Storage 2",
+    "department": "Warehouse",
+    "description": null,
+    "properties": null
+  },
+  {
+    "id": 16,
+    "name": "Warehouse Storage 3",
+    "department": "Warehouse",
+    "description": null,
+    "properties": null
+  },
+  {
+    "id": 17,
+    "name": "Warehouse Storage 4",
+    "department": "Warehouse",
+    "description": null,
+    "properties": null
+  },
+  {
+    "id": 0,
+    "name": "A Fitting 1 - Buffer",
+    "department": "A",
+    "description": null,
+    "properties": null
+  },
+  {
+    "id": 0,
+    "name": "A Sawing - Buffer",
+    "department": "A",
+    "description": null,
+    "properties": null
+  },
+  {
+    "id": 0,
+    "name": "A Bending 1 - Buffer",
+    "department": "A",
+    "description": null,
+    "properties": null
+  },
+  {
+    "id": 0,
+    "name": "A Welding 1 - Buffer",
+    "department": "A",
+    "description": null,
+    "properties": null
+  }
+]
