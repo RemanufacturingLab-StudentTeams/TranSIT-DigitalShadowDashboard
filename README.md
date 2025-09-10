@@ -1,6 +1,8 @@
 # Digital Shadow Dashboard
 The Digital Shadow Dashboard (DSD) is a tool used to visualize part location data within industrial companies. With the DSD it is possible to view: Part routes taken, Where parts concentrate or 'pile up', average time taken per location, a dynamic value stream mapping tool, viewing the differnt locations and their data, and viewing raw data in a table.
 
+<img width="1918" height="991" alt="image" src="https://github.com/user-attachments/assets/246cb092-4796-4fe4-a919-fbd72b7d9cd9" />
+
 # General Overview
 ## File structure
 This project is organized into three main directories:
