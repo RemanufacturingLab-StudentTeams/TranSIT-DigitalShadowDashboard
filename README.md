@@ -6,7 +6,7 @@ The Digital Shadow Dashboard (DSD) is a tool used to visualize part location dat
 # General Overview
 ## File structure
 This project is organized into three main directories:
-- code: Holds code that can be used to run the DSD locally
+- code: Holds code that can be used to run the DSD locally, as well as readme for installation
 - docs: Has documents about the project
 - media: Has images and videos of the DSD in action
 
