@@ -72,11 +72,14 @@ and then can be processed the same.
 
 I have already used InfluxDB in the past, and will add an updated InfluxDB version of the code in future that can be used in this version.
 
+For Influx and API will add file that is not currently used but can be connected to have their csv data
+
 ### 3. API calls
 
 Another option is to use API calls to retrieve data from the MES or ERP system, this is ideal for viewing it in real time and 
 integrating the DSD directly with an industrial SMEs infrastructure, but requires an API call system to already be set up.
 
 REST API was used by an SME partner and this proved a good option for retrieving data.
+
 
 The updated code that can be used to do this will be added in the future.
